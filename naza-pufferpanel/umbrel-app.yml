@@ -1,29 +1,24 @@
 manifestVersion: 1
-id: sparkles-hello-world
-name: Hello World
-tagline: Replace this tagline with your app's tagline
-icon: https://svgur.com/i/mvA.svg
-category: Development
+id: naza-pufferpanel
+name: PufferPanel
+tagline: Easy server management
+icon: https://avatars.githubusercontent.com/u/9778794
+category: Games
 version: "1.0.0"
-port: 4000
-description: >-
-  Add your app's description here.
-
-
-  You can also add newlines!
-
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+port: 8523
+description: PufferPanel is a web-based Game Server Management System. PufferPanel allows you to manage multiple different game servers all from one central location. You can give other users their own servers or allow them to access to your servers.
+developer: PufferPanel
+website: https://pufferpanel.com/
+submitter: Naza.dev
+submission: https://github.com/pufferpanel/pufferpanel
+repo: https://github.com/pufferpanel/pufferpanel
+support: https://github.com/pufferpanel/pufferpanel/issues
 gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://easypanel.io/assets/images/screenshot1-c50bc18ecbb92698665ca943efcadd4a.png
+  - https://easypanel.io/assets/images/screenshot2-86fd4767212be42914de2128b9db84a7.png
+  - https://easypanel.io/assets/images/screenshot5-fec4fe5ed176ebcd53862538ed317cb0.png
 releaseNotes: >-
-  Add what's new in the latest version of your app here.
+  Test release
 dependencies: []
 path: ""
 defaultUsername: ""
