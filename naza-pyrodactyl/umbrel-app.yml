@@ -6,7 +6,7 @@ icon: https://avatars.githubusercontent.com/u/234506549
 category: Games
 version: "1.0.0"
 port: 8523
-description: Pyrodactyl is the Pterodactyl-based game server management panel that focuses on performance enhancements, a reimagined, accessible interface, and top-tier developer experience. Builds faster, compiles smaller. Pyrodactyl is the world's best Pterodactyl. REQUIRES ADDITIONAL CONFIGURATION AFTER INSTALL
+description: Pyrodactyl is the Pterodactyl-based game server management panel that focuses on performance enhancements, a reimagined, accessible interface, and top-tier developer experience. Builds faster, compiles smaller. Pyrodactyl is the world's best Pterodactyl. REQUIRES ADDITIONAL CONFIGURATION AFTER INSTALL. To create a user, open the umbrelos terminal and type: sudo docker exec -it naza-pyrodactyl_panel_1 php artisan p:user:make
 developer: Pyrodactyl
 website: https://pyrodactyl.dev
 submitter: Naza.dev
