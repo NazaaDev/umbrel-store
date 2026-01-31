@@ -1,0 +1,24 @@
+manifestVersion: 1
+id: naza-pyrodactyl
+name: Pyrodactyl
+tagline: The Pterodactyl-based game server panel that's faster, smaller, safer, and more accessible
+icon: https://avatars.githubusercontent.com/u/234506549
+category: Games
+version: "1.0.0"
+port: 8523
+description: Pyrodactyl is the Pterodactyl-based game server management panel that focuses on performance enhancements, a reimagined, accessible interface, and top-tier developer experience. Builds faster, compiles smaller: Pyrodactyl is the world's best Pterodactyl. REQUIRES ADDITIONAL CONFIGURATION AFTER INSTALL
+developer: Pyrodactyl
+website: https://pyrodactyl.dev
+submitter: Naza.dev
+submission: https://github.com/NazaaDev/umbrel-store/
+repo: https://github.com/pyrodactyl-oss/pyrodactyl
+support: https://github.com/pyrodactyl-oss/pyrodactyl/issues
+gallery:
+  - https://pyrodactyl.dev/_next/static/media/hero.6c355ca4.jpg
+  - https://pyrodactyl.dev/_next/static/media/fs.80c09df3.jpg
+releaseNotes: >-
+  Test release
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""

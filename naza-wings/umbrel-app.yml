@@ -1,0 +1,20 @@
+manifestVersion: 1
+id: naza-wings
+name: Wings
+tagline: Engine for Pyrodactyl panel (REQUIRED)
+icon: https://avatars.githubusercontent.com/u/9778794
+category: Games
+version: "1.0.0"
+description: Wings is Pterodactyl's server control plane, built for the rapidly changing gaming industry and designed to be highly performant and secure. Wings provides an HTTP API allowing you to interface directly with running server instances, fetch server logs, generate backups, and control all aspects of the server lifecycle.
+developer: Pyrodactyl
+website: https://pyrodactyl.dev
+submitter: Naza.dev
+submission: https://github.com/NazaaDev/umbrel-store/
+repo: https://github.com/pyrodactyl-oss/pyrodactyl
+support: https://github.com/pyrodactyl-oss/pyrodactyl/issues
+releaseNotes: >-
+  Test release
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
