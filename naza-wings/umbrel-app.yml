@@ -13,6 +13,9 @@ submitter: Naza.dev
 submission: https://github.com/NazaaDev/umbrel-store/
 repo: https://github.com/pyrodactyl-oss/pyrodactyl
 support: https://github.com/pyrodactyl-oss/pyrodactyl/issues
+gallery:
+  - https://pyrodactyl.dev/_next/static/media/hero.6c355ca4.jpg
+  - https://pyrodactyl.dev/_next/static/media/fs.80c09df3.jpg
 releaseNotes: >-
   Test release
 dependencies: []
