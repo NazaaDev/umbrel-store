@@ -7,7 +7,7 @@ services:
     networks:
       - wings0
     ports:
-      - "8524:8080"
+      - "8524:8524"
       - "2022:2022"
     tty: true
     environment:
