@@ -22,7 +22,6 @@ services:
       - "${APP_DATA_DIR}/data/var/lib/pterodactyl/:/var/lib/pterodactyl/"
       - "${APP_DATA_DIR}/data/logs:/var/log/pterodactyl/"
       - "${APP_DATA_DIR}/tmp/pterodactyl/:/tmp/pterodactyl/"
-	    - "/run/wings:/run/wings"
       # you may need /srv/daemon-data if you are upgrading from an old daemon
       #- "/srv/daemon-data/:/srv/daemon-data/"
       # Required for ssl if you use let's encrypt. uncomment to use.
